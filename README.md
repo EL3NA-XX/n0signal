@@ -1,2 +1,2 @@
-# n0signal
-Terminal subnet scanner by n0signal
+# webz-projectzzz
+random web projects
